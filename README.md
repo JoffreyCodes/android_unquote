@@ -4,8 +4,8 @@ An android app project built using the guidance of [Codecademy](https://www.code
 
 ## App Snapshot
 
-<img src="./gh_media/Screenshot1.png" height=50%>
-<img src="./gh_media/Screenshot2.png" height=50%>
-<img src="./gh_media/Screenshot3.png" height=50%>
-<img src="./gh_media/Screenshot4.png" height=50%>
+<img src="./gh_media/Screenshot1.png" height=25%>
+<img src="./gh_media/Screenshot2.png" height=25%>
+<img src="./gh_media/Screenshot3.png" height=25%>
+<img src="./gh_media/Screenshot4.png" height=25%>
 
